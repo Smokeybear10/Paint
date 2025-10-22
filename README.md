@@ -1,6 +1,36 @@
 # GUI Programming & Paint Application
 
-A functional GUI library and paint application built in OCaml.
+A functional GUI library and paint application built in OCaml, featuring a custom widget system, event handling, and interactive drawing tools.
+
+## Overview
+
+This project implements a complete GUI framework from scratch, including:
+
+- **Custom Widget System** - Modular, composable UI components
+- **Event-Driven Architecture** - Sophisticated event loop and handlers
+- **Paint Application** - Full-featured drawing program with multiple tools
+- **Graphics Context** - Abstraction layer for rendering operations
+- **Data Structures** - Efficient deque implementation for undo/redo functionality
+
+## Project Structure
+
+```
+.
+├── widget.ml/mli       # Core widget system and composition
+├── gctx.ml/mli         # Graphics context for drawing operations
+├── paint.ml/mli        # Main paint application
+├── eventloop.ml/mli    # Event handling and dispatching
+├── deque.ml/mli        # Double-ended queue data structure
+├── assert.ml/mli       # Testing utilities
+└── widgetTest.ml       # Widget system tests
+```
+
+## Demo Applications
+
+- **paint.ml** - Interactive paint program with drawing tools
+- **lightbulb.ml** - Simple state toggle demonstration
+- **gdemo.ml** - Graphics primitives showcase
+- **pairdemo.ml** - Widget pairing example
 
 ## Course Information
 
