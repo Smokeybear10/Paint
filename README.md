@@ -32,6 +32,23 @@ This project implements a complete GUI framework from scratch, including:
 - **gdemo.ml** - Graphics primitives showcase
 - **pairdemo.ml** - Widget pairing example
 
+## Building & Running
+
+Build the project:
+```bash
+make
+```
+
+Run the paint application:
+```bash
+make paint
+```
+
+Run tests:
+```bash
+make test
+```
+
 ## Course Information
 
 Part of CIS 1200 at the University of Pennsylvania
