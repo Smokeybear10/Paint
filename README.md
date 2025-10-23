@@ -49,6 +49,20 @@ Run tests:
 make test
 ```
 
+## Features
+
+### Widget System
+- Hierarchical widget composition
+- Event propagation and handling
+- Layout management
+- State management
+
+### Paint Application
+- Multiple drawing tools (line, point, thick line)
+- Color picker
+- Undo/redo functionality
+- Interactive canvas
+
 ## Course Information
 
 Part of CIS 1200 at the University of Pennsylvania
