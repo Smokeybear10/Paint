@@ -63,6 +63,13 @@ make test
 - Undo/redo functionality
 - Interactive canvas
 
+## Technical Details
+
+Built using:
+- **OCaml** - Functional programming language
+- **Graphics Module** - Native OCaml graphics library
+- **Custom Event Loop** - Asynchronous event handling
+
 ## Course Information
 
 Part of CIS 1200 at the University of Pennsylvania
