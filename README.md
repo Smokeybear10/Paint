@@ -1,6 +1,6 @@
 # GUI Programming & Paint Application
 
-A functional GUI library and paint application built in OCaml, featuring a custom widget system, event handling, and interactive drawing tools.
+A functional GUI library and interactive paint application built in OCaml, featuring a custom widget system, event-driven architecture, and multiple drawing tools.
 
 ## Overview
 
